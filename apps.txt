@@ -8,3 +8,5 @@ arandr
 e16
 e16-themes
 lightdm-gtk-greeter
+lsd
+xbindkeys
