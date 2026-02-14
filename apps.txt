@@ -1,0 +1,10 @@
+volctl
+gkrellm
+rofi
+pavucontrol
+xdg-utils
+xrandr
+arandr
+e16
+e16-themes
+lightdm-gtk-greeter
