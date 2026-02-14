@@ -1,0 +1,2 @@
+volctl &
+xbindkeys &
