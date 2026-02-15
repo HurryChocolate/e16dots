@@ -1,2 +1,3 @@
 volctl &
 xbindkeys &
+xscreensaver &
