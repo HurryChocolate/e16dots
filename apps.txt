@@ -12,3 +12,6 @@ lsd
 xbindkeys
 pcmanfm
 flameshot
+xscreensaver
+e16bindkeys
+e16-epplets
