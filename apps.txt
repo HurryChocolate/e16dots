@@ -11,3 +11,4 @@ lightdm-gtk-greeter
 lsd
 xbindkeys
 pcmanfm
+flameshot
